@@ -20,7 +20,7 @@ What?           | How Many?
 --------------- | ---------------
 banana          | 1
 flakes          | 60g
-chocolate chips | 40g
+chocolate chips | 550g
 cinnamon        | pinch
 honey           | 1 tablespoon
 
